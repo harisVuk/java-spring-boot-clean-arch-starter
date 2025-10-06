@@ -8,6 +8,7 @@
   <li><strong>Spring Boot</strong></li>
   <li><strong>JpaRepository working with db</strong></li>
   <li>Usage of <strong>Postgres sql</strong> as database</li>
+  <li><strong>Dependency injection</strong></li>
   <li>Clean Architecture structure <strong>(Domain, Application, Web API, Infrastructure)</strong></li>
 </ul>
 <h1>Quick Start</h1>
