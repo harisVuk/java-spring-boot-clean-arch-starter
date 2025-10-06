@@ -4,12 +4,11 @@
 <br/>
 <ul>
   <li><strong>Java JDK 25</strong></li>
-   <li><strong>Maven 3.5.6</strong></li>
-  <li>Usage of <strong>Java Spring</strong> Controllers</li>
-  <li>Clean Architecture structure <strong>(Domain, Application, Web API, Infrastructure)</strong></li>
+  <li><strong>Maven 3.5.6</strong></li>
   <li><strong>Spring Boot</strong></li>
   <li><strong>JpaRepository working with db</strong></li>
   <li>Usage of <strong>Postgres sql</strong> as database</li>
+  <li>Clean Architecture structure <strong>(Domain, Application, Web API, Infrastructure)</strong></li>
 </ul>
 <h1>Quick Start</h1>
 <p>
