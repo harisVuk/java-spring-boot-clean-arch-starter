@@ -16,7 +16,7 @@
   <pre>
   <code>
   git clone https://github.com/harisVuk/java-spring-boot-clean-arch-starter.git
-  Open the solution in VS
+  Open the solution in Intelij
   Modify the connection string in application.properties to reflect your database environment
   Build and run the project to add tables to database
   </code>
